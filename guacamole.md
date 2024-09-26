@@ -3,5 +3,6 @@
 * avocado
 * lime
 * salt
+* watermelon
 
 # Instructions
